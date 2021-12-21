@@ -49,5 +49,6 @@ The last aspect to analyze is the spread the Top Start and Top End Locations. Ei
 
 With the insights extracted from our dataset these could be used to engage more customers or even convert customers into subscribers for both genders. Two additional vizualizations that I would add are:
 
-a. Chart that identifies rides by age and sex, to properly foucus our marketing efforts. 
+a. Chart that identifies rides by age and sex, to properly foucus our marketing efforts.
+
 b. Chart that identify how long a suscriber mantains its subscription to verify if our subscribers are really compounding or not.
