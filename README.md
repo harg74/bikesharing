@@ -2,7 +2,7 @@
 
 ## Overview
 
-Using Stories in Tableau Public, a pitch deck was created for angel funding a bike sharing start-up. With this in mind, we analyzed the market through a New York dataset to discover meaning trends during the August month.
+Using Stories in Tableau Public, a pitch deck was created for angel-funding a bike sharing start-up. With this in mind, we analyzed a dataset with that included the New York market to discover meaningful trends during August month.
 
 ## Resources
 
